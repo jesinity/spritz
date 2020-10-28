@@ -1,2 +1,2 @@
 # spritz
-Extra functionalities for the Spark language
+Extra functionalities for Apache Spark
